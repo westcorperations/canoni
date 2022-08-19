@@ -1,9 +1,4 @@
-/* =====================================================
-Template Name   : Rosewod
-Description     : Hotel & Resort HTML5 Template
-Author          : Themesland
-Version         : 1.0
-=======================================================*/
+
 
 
 (function ($) {
