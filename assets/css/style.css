@@ -1394,11 +1394,14 @@ a.ui-button:active,
 .about-img {
     position: relative;
     padding: 40px 20px 40px 140px;
-    z-index: 1
+    z-index: 1;
+  
 }
 
 .about-img-1 {
     position: absolute;
+    object-fit: cover;
+    object-position:top center;
     left: 0;
     top: 0;
     width: 50%;
@@ -1414,6 +1417,8 @@ a.ui-button:active,
     left: 30%;
     top: 20px;
     bottom: 20px;
+    object-fit: cover;
+    object-position:top center;
     width: 50%;
     border: 7px solid #fff;
     border-radius: 15px;
